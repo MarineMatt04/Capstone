@@ -14,3 +14,4 @@ Movies have always been a passion of mine, from the actor/director relationships
 
 # Notable Data Analysis Decision:
 In my study, I drew new release data from the years 2014-2019. This is due to the fact that COVID-19 had a dramatic affect on box office returns as well as movie releases in general beginning in 2020. This drastic offset in data would have caused a major "misinterpretation" of my analysis and, in fact, poses a whole seperate set of questions to be answered altogher. I would like to use this intial study as a platform to launch further inquisitions on multiple levels into the film industry.
+I utilized the "Opening Weekend Gross" value to guage the popularity of films and their respective genres. This number most accurately reflected a movies' success and narrowed it down to a specific time of year. This best provided the necessary information to conclude concise reults for my analysis.
